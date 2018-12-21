@@ -35,7 +35,7 @@ Hash 函数一般应用于：
 
 填充消息，使得消息长度满足：
 
-![长度 恒等于 448模512](http://latex.codecogs.com/gif.latex?Length%20\equiv%20448%20\left%20(%20mod%20512%20\right%20))
+![Md5 Length](md5_length.png)
 
 填充的方法是，填充 1个1和n个0。
 
